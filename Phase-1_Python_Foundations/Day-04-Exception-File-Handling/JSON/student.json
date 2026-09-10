@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "name": "Arjun",
+        "age": 20,
+        "department": "CSE",
+        "skills": [
+            "Python",
+            "HTML",
+            "CSS"
+        ],
+        "marks": {
+            "python": 85,
+            "math": 72
+        },
+        "city": "Hyderabad",
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Priya",
+        "age": 21,
+        "department": "ECE",
+        "skills": [
+            "Python",
+            "JavaScript"
+        ],
+        "marks": {
+            "python": 91,
+            "math": 88
+        },
+        "city": "Bengaluru",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Rahul",
+        "age": 19,
+        "department": "CSE",
+        "skills": [
+            "C",
+            "Python"
+        ],
+        "marks": {
+            "python": 76,
+            "math": 81
+        },
+        "city": "Chennai",
+        "active": false
+    },
+    {
+        "id": 4,
+        "name": "Sneha",
+        "age": 22,
+        "department": "IT",
+        "skills": [
+            "Python",
+            "SQL",
+            "JavaScript"
+        ],
+        "marks": {
+            "python": 89,
+            "math": 94
+        },
+        "city": "Hyderabad",
+        "active": true
+    },
+    {
+        "id": 5,
+        "name": "Kiran",
+        "age": 20,
+        "department": "AIML",
+        "skills": [
+            "Python",
+            "NumPy",
+            "Pandas"
+        ],
+        "marks": {
+            "python": 93,
+            "math": 96
+        },
+        "city": "Pune",
+        "active": true
+    }
+]
