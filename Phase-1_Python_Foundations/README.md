@@ -215,3 +215,44 @@
 - Pandas in the Machine Learning Workflow
 
 ---
+
+## 📅 Day 9 — Pandas Data Cleaning & Transformation
+- Data Cleaning
+- Detecting Missing Values
+- `isnull()`
+- `isna()`
+- Counting Missing Values
+- `dropna()`
+- Filling Missing Values with `fillna()`
+- Mean Imputation
+- Median Imputation
+- Mode Imputation
+- Duplicate Detection
+- `duplicated()`
+- `drop_duplicates()`
+- Data Type Conversion
+- `astype()`
+- `pd.to_numeric()`
+- Cleaning String Values
+- `str.strip()`
+- `str.lower()`
+- Replacing Values with `replace()`
+- Value Standardization
+- Creating Categories
+- `map()`
+- `apply()`
+- Lambda with Pandas
+- Renaming Columns
+- Removing Columns
+- Removing Rows
+- `reset_index()`
+- `unique()`
+- `nunique()`
+- `value_counts()`
+- Introduction to Outliers
+- IQR Method for Outlier Detection
+- Outliers in Machine Learning
+- Pandas Data Cleaning Workflow
+
+---
+
