@@ -276,3 +276,29 @@
 - Basic ML data visualization
 
 ---
+
+## 📅 Day 11 — Seaborn: Statistical Data Visualization
+- Introduction to Seaborn
+- Seaborn with Pandas DataFrames
+- `scatterplot()`
+- `hue`
+- `countplot()`
+- `barplot()`
+- `boxplot()`
+- `histplot()`
+- Histogram Bins
+- KDE (Kernel Density Estimation)
+- Histogram with KDE
+- `regplot()`
+- `pairplot()`
+- Pairplot with `hue`
+- Correlation Heatmap
+- `heatmap()`
+- Correlation Visualization
+- Seaborn Styling
+- `set_theme()`
+- `set_style()`
+- Seaborn + Matplotlib
+- Seaborn + Pandas
+- Visualization for Exploratory Data Analysis (EDA)
+- Visual Identification of Relationships and Outliers
