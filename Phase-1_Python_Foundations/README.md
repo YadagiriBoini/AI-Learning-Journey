@@ -256,3 +256,23 @@
 
 ---
 
+## 📅 Day 10 — Matplotlib: Data Visualization
+- Introduction to Matplotlib
+- import matplotlib.pyplot as plt
+- Line plots
+- Scatter plots
+- Bar charts
+- Histograms
+- Figure and axes
+- Titles
+- X-axis and Y-axis labels
+- Legends
+- Grid
+- Plot customization
+- subplot()
+- figure()
+- Visualizing Pandas data
+- Visualizing distributions
+- Basic ML data visualization
+
+---
