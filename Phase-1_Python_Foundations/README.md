@@ -302,3 +302,28 @@
 - Seaborn + Pandas
 - Visualization for Exploratory Data Analysis (EDA)
 - Visual Identification of Relationships and Outliers
+
+---
+
+## 📅 Day 12 — Mathematics: Vectors & Matrices
+- Vectors
+- Vector Dimension
+- Vector Addition
+- Vector Subtraction
+- Scalar Multiplication
+- Dot Product
+- Dot Product in Machine Learning
+- Simple Neuron Computation
+- Matrices
+- Matrix Shape
+- Matrices in Machine Learning
+- Matrix Addition
+- Matrix Multiplication
+- Matrix Multiplication Shape Rules
+- Element-wise Multiplication vs Matrix Multiplication
+- Matrix Transpose
+- Matrix-Vector Multiplication
+- `X @ W + b`
+
+---
+
