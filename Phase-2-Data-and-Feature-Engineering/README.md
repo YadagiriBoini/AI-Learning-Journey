@@ -16,3 +16,31 @@
 - Data Leakage
 
 ---
+
+# Day 17 — Handling Missing Data
+- Missing Data
+- `NaN`
+- Detecting Missing Values
+- `isnull()`
+- `isna()`
+- Counting Missing Values with `sum()`
+- Finding Rows with Missing Values
+- `dropna()`
+- Imputation
+- Mean Imputation
+- Median Imputation
+- Mode Imputation
+- Constant Value Imputation
+- Forward Fill (`ffill()`)
+- Backward Fill (`bfill()`)
+- Missing Data vs Zero
+- Meaning of Missing Data
+- Data Leakage During Imputation
+- `SimpleImputer`
+- Imputation Strategies:
+  - `mean`
+  - `median`
+  - `most_frequent`
+  - `constant`
+
+---
