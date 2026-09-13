@@ -327,3 +327,25 @@
 
 ---
 
+## 📅 Day 13 — Probability, Conditional Probability & Bayes Theorem
+- Probability
+- Sample Space
+- Events
+- Basic Probability Calculation
+- Complement of an Event
+- Independent Events
+- Joint Probability
+- Conditional Probability
+- `P(A | B)`
+- Conditional Probability in Machine Learning
+- Bayes Theorem
+- Prior Probability
+- Likelihood
+- Evidence
+- Posterior Probability
+- Bayes Theorem in Machine Learning
+- Naive Bayes
+- Spam Classification Example
+
+---
+
