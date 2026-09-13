@@ -349,3 +349,19 @@
 
 ---
 
+## 📅 Day 15 — Derivatives, Gradients & Phase 1 Review
+- Derivatives
+- Derivative as Slope
+- Basic Derivative Rules
+- Power Rule
+- Derivative Intuition
+- Loss Function
+- Derivative of a Loss Function
+- Gradients
+- Gradient Vectors
+- Gradients in Machine Learning
+- Gradient Descent
+- Gradient Descent Update Rule
+- Learning Rate
+- Parameter Updates
+- Prediction → Loss → Gradient → Update
