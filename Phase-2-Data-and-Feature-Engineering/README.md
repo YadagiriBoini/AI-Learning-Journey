@@ -17,7 +17,7 @@
 
 ---
 
-# Day 17 — Handling Missing Data
+# 📅Day 17 — Handling Missing Data
 - Missing Data
 - `NaN`
 - Detecting Missing Values
@@ -45,7 +45,7 @@
 
 ---
 
-# Day 18 — Encoding Categorical Data
+# 📅Day 18 — Encoding Categorical Data
 - Categorical Data
 - Nominal Data
 - Ordinal Data
@@ -70,7 +70,7 @@
 
 ---
 
-# Day 19 — Feature Scaling
+# 📅Day 19 — Feature Scaling
 - Feature Scaling
 - Why Feature Scaling is Important
 - Distance-Based Algorithms and Feature Scale
@@ -92,3 +92,38 @@
 - Scaling vs Normalization Terminology
 
 ---
+
+## 📅Day 20 — Outliers
+- Outliers
+- Outlier vs Anomaly
+- Importance of Outlier Detection
+- Quartiles
+- Q1 (First Quartile)
+- Q2 (Median)
+- Q3 (Third Quartile)
+- Interquartile Range (IQR)
+- IQR Formula
+- IQR Outlier Rule (1.5 × IQR)
+- Lower Bound
+- Upper Bound
+- Outlier Detection using IQR
+- Outlier Detection using Box Plots
+- Box Plot Visualization
+- Z-Score
+- Z-Score Formula
+- Outlier Detection using Z-Score
+- abs(z_score) > 3
+- IQR vs Z-Score
+- Boolean Masking in Pandas
+- Handling Outliers
+- Removing Outliers
+- Correcting Outliers
+- Capping / Winsorization
+- Log Transformation (np.log1p)
+- Effect of Outliers on Feature Scaling
+- RobustScaler
+- Median and IQR based Scaling
+- Importance of Domain Knowledge in Outlier Handling
+
+---
+
