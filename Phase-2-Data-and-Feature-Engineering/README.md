@@ -69,3 +69,26 @@
 - `OrdinalEncoder`
 
 ---
+
+# Day 19 — Feature Scaling
+- Feature Scaling
+- Why Feature Scaling is Important
+- Distance-Based Algorithms and Feature Scale
+- Standardization
+- Standardization Formula
+- `StandardScaler`
+- Mean and Standard Deviation
+- Min-Max Normalization
+- Min-Max Scaling Formula
+- `MinMaxScaler`
+- StandardScaler vs MinMaxScaler
+- Effect of Outliers on Scaling
+- `fit()`
+- `transform()`
+- `fit_transform()`
+- Scaling Training and Test Data
+- Data Leakage During Scaling
+- Scaling and Tree-Based Algorithms
+- Scaling vs Normalization Terminology
+
+---
