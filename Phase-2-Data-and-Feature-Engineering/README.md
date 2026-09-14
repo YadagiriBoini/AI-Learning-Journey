@@ -44,3 +44,28 @@
   - `constant`
 
 ---
+
+# Day 18 — Encoding Categorical Data
+- Categorical Data
+- Nominal Data
+- Ordinal Data
+- Encoding
+- Label Encoding
+- Limitations of Label Encoding
+- Ordinal Encoding
+- One-Hot Encoding
+- One-Hot Encoding with Pandas
+- One-Hot Encoding with Scikit-learn
+- `drop="first"`
+- Binary Encoding (`0` / `1`)
+- Encoding Multiple Categorical Columns
+- Handling Unknown Categories
+- `handle_unknown="ignore"`
+- `fit()`
+- `transform()`
+- `fit_transform()`
+- Encoding and Data Leakage
+- `OneHotEncoder`
+- `OrdinalEncoder`
+
+---
