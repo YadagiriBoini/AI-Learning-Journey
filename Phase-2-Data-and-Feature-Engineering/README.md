@@ -127,3 +127,34 @@
 
 ---
 
+## 📅Day 21 — Duplicates & Data Cleaning
+- Duplicate Data
+- Causes of Duplicate Data
+- Impact of Duplicate Data
+- duplicated()
+- Counting Duplicates with duplicated().sum()
+- Viewing Duplicate Rows
+- keep="first"
+- keep="last"
+- keep=False
+- drop_duplicates()
+- subset
+- Removing Duplicates Based on Specific Columns
+- Keeping the Last Duplicate
+- Removing All Duplicate Groups
+- reset_index()
+- reset_index(drop=True)
+- Full Row Duplicates vs Column Duplicates
+- Data Cleaning
+- Data Cleaning Workflow
+- Dataset Inspection
+- head()
+- shape
+- info()
+- describe()
+- isnull().sum()
+- dtypes
+- Duplicate Data Leakage
+- Creating a Data Cleaning Function
+
+---
