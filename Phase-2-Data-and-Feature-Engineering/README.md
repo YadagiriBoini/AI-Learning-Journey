@@ -158,3 +158,34 @@
 - Creating a Data Cleaning Function
 
 ---
+
+## 📅Day 22 — Train / Validation / Test Split
+- Dataset Splitting
+- Training Data
+- Validation Data
+- Test Data
+- Purpose of Training Data
+- Purpose of Validation Data
+- Purpose of Test Data
+- `X` and `y`
+- `train_test_split()`
+- `test_size`
+- `random_state`
+- Reproducible Data Splitting
+- Three-Way Train / Validation / Test Split
+- Training / Validation / Test Ratios
+- Data Shuffling
+- Time-Series Data Splitting
+- `stratify`
+- Stratified Splitting
+- Class Distribution
+- Preprocessing After Data Splitting
+- Preventing Data Leakage During Preprocessing
+- Fitting Preprocessing on Training Data
+- Transforming Validation and Test Data
+- Scaling After Train/Test Split
+- Imputation After Train/Test Split
+- Encoding After Train/Test Split
+- General ML Preprocessing Workflow
+
+---
