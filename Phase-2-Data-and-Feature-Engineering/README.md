@@ -189,3 +189,47 @@
 - General ML Preprocessing Workflow
 
 ---
+
+## 📅Day 23 — Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
+- Importance of EDA
+- Dataset Inspection
+- head()
+- tail()
+- shape
+- columns
+- dtypes
+- info()
+- describe()
+- Numerical Data Analysis
+- Categorical Data Analysis
+- Missing Value Analysis
+- Duplicate Analysis
+- Unique Values
+- unique()
+- nunique()
+- value_counts()
+- Target Distribution
+- value_counts(normalize=True)
+- Histograms
+- Box Plots
+- Scatter Plots
+- Correlation Analysis
+- Correlation Matrix
+- Seaborn Heatmap
+- corr()
+- Categorical vs Target Analysis
+- pd.crosstab()
+- groupby()
+- agg()
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
+- pairplot()
+- Skewness
+- skew()
+- Feature Analysis
+- Distribution Analysis
+- Data Leakage Detection through EDA
+
+---
