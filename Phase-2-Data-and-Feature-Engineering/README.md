@@ -233,3 +233,71 @@
 - Data Leakage Detection through EDA
 
 ---
+
+## 📅Day 24 — Understanding Data Preprocessing
+- Machine Learning Data Workflow
+- Features and Targets
+- Input Features (X)
+- Target Variable (y)
+- How to Identify the Target Column
+- Feature Selection
+- Identifying Unnecessary Columns
+- Identifier Columns
+- Data Leakage Columns
+- Feature Engineering
+- Derived Features
+- Customer Tenure
+- Calculating Customer Tenure
+- Numerical Features
+- Categorical Features
+- Numerical vs Categorical Data
+- Why Numerical and Categorical Features Need Different Processing
+- Manual Data Preprocessing with Pandas
+- fillna()
+- SimpleImputer
+- Why Use Pipelines
+- Numerical Preprocessing Pipeline
+- Categorical Preprocessing Pipeline
+- Pipeline
+- ColumnTransformer
+- fit()
+- transform()
+- fit_transform()
+- X_train
+- X_test
+- y_train
+- y_test
+- X_train_processed
+- Training Data vs Test Data Preprocessing
+- Data Leakage During Preprocessing
+- Manual Preprocessing vs Pipeline-Based Preprocessing
+
+---
+
+## 📅Day 25 — Complete EDA + Preprocessing Pipeline
+- Complete EDA Workflow
+- Dataset Inspection
+- Missing Value Analysis
+- Duplicate Analysis
+- Categorical Data Analysis
+- Target Distribution Analysis
+- Date Conversion
+- Date-Based Feature Engineering
+- Customer Tenure Feature
+- Invalid Data Detection
+- Numerical Feature Selection
+- Categorical Feature Selection
+- Feature and Target Separation
+- Train-Test Split
+- Stratified Train-Test Split
+- Numerical Data Imputation
+- Categorical Data Imputation
+- Numerical Feature Scaling
+- One-Hot Encoding
+- Pipeline
+- ColumnTransformer
+- fit()
+- transform()
+- fit_transform()
+- Handling Unknown Categories
+- Data Leakage Prevention

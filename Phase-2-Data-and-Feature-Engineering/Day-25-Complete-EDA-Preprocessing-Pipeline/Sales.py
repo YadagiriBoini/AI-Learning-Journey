@@ -10,7 +10,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 
 # Load Datset
-df = pd.read_csv("Day-24-Complete-EDA-Preprocessing-Pipeline\Sales_Dataset.csv")
+df = pd.read_csv("Day-25-Complete-EDA-Preprocessing-Pipeline\Sales_Dataset.csv")
 
 # Basic Inspection
 print(df.head())
@@ -95,14 +95,14 @@ categorical_features = [
 ]
 
 
-# Imputing missing values
-numeric_imputer = SimpleImputer(strategy="mean")
-categorical_imputer = SimpleImputer(strategy="most_frequent")
+# # Imputing missing values
+# numeric_imputer = SimpleImputer(strategy="mean")
+# categorical_imputer = SimpleImputer(strategy="most_frequent")
 
 
-# Numeric Scaling
-scaler = StandardScaler()
-encoder = OneHotEncoder(handle_unknown="ignore")
+# # Numeric Scaling
+# scaler = StandardScaler()
+# encoder = OneHotEncoder(handle_unknown="ignore")
 
 
 # Numeric Pipeline
