@@ -1,0 +1,23 @@
+## 📅Day 26 — Linear Regression
+- Regression
+- Supervised Learning
+- Features and Targets
+- X and y
+- Simple Linear Regression
+- y = mx + b
+- Coefficient / Slope
+- Intercept
+- Predictions
+- Residuals
+- Mean Squared Error (MSE)
+- Gradient Descent Intuition
+- LinearRegression()
+- fit()
+- predict()
+- coef_
+- intercept_
+- reshape()
+- Regression Line Visualization
+- Basic Regression Workflow
+
+---
